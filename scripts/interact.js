@@ -1,7 +1,7 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-    const daoAddress = "0xb2BAd8AedB997905bAe2406256B077e7c3f68469"; // Replace with your DAO contract address
+    const daoAddress = " "; // Replace with your DAO contract address
     const abi = [
         {
             "inputs": [],

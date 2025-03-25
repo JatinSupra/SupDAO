@@ -5,9 +5,9 @@ module.exports = {
   solidity: "0.8.28",
   networks: {
     supra: {
-      url: "",
-      chainId: 232,
-      accounts: [``]
+      url: " ",
+      chainId: 119,
+      accounts: [`0xYOUR_STARKEY_PRIVATE_KEY`]
     }
   }
 };
